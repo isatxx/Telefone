@@ -1,5 +1,4 @@
 # Telefone interativo
-## Telefone interativo
 Feito durante as aulas de **JavaScript** do curso da Alura - [JavaScript para Web: Crie páginas dinâmicas](https://cursos.alura.com.br/course/javascript-web-paginas-dinamicas).   
 Aprendi um pouco a:
 * Identificar os papéis de cada tecnologia da Web para construção de páginas
